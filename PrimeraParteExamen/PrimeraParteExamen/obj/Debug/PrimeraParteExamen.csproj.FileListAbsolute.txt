@@ -1,0 +1,38 @@
+c:\users\jairo brenes\documents\visual studio 2015\Projects\PrimeraParteExamen\PrimeraParteExamen\bin\Debug\PrimeraParteExamen.exe.config
+c:\users\jairo brenes\documents\visual studio 2015\Projects\PrimeraParteExamen\PrimeraParteExamen\bin\Debug\PrimeraParteExamen.exe
+c:\users\jairo brenes\documents\visual studio 2015\Projects\PrimeraParteExamen\PrimeraParteExamen\bin\Debug\PrimeraParteExamen.pdb
+c:\users\jairo brenes\documents\visual studio 2015\Projects\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.csprojResolveAssemblyReference.cache
+c:\users\jairo brenes\documents\visual studio 2015\Projects\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.Form1.resources
+c:\users\jairo brenes\documents\visual studio 2015\Projects\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.Properties.Resources.resources
+c:\users\jairo brenes\documents\visual studio 2015\Projects\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.Vistas.Estudiantes.resources
+c:\users\jairo brenes\documents\visual studio 2015\Projects\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.csproj.GenerateResource.Cache
+c:\users\jairo brenes\documents\visual studio 2015\Projects\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.exe
+c:\users\jairo brenes\documents\visual studio 2015\Projects\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.pdb
+c:\users\jairo brenes\documents\visual studio 2015\Projects\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.Vistas.Materias.resources
+c:\users\jairo brenes\documents\visual studio 2015\Projects\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.Vistas.Profesores.resources
+C:\Users\Jairo Brenes\Desktop\PrimeraParteExamen\PrimeraParteExamen\bin\Debug\PrimeraParteExamen.exe.config
+C:\Users\Jairo Brenes\Desktop\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.exe
+C:\Users\Jairo Brenes\Desktop\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.pdb
+C:\Users\Jairo Brenes\Desktop\PrimeraParteExamen\PrimeraParteExamen\bin\Debug\PrimeraParteExamen.exe
+C:\Users\Jairo Brenes\Desktop\PrimeraParteExamen\PrimeraParteExamen\bin\Debug\PrimeraParteExamen.pdb
+C:\Users\Jairo Brenes\Desktop\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.csprojResolveAssemblyReference.cache
+C:\Users\Jairo Brenes\Desktop\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.Form1.resources
+C:\Users\Jairo Brenes\Desktop\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.Properties.Resources.resources
+C:\Users\Jairo Brenes\Desktop\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.Vistas.Estudiantes.resources
+C:\Users\Jairo Brenes\Desktop\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.Vistas.Materias.resources
+C:\Users\Jairo Brenes\Desktop\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.Vistas.Profesores.resources
+C:\Users\Jairo Brenes\Desktop\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.csproj.GenerateResource.Cache
+C:\Users\Jairo Brenes\Desktop\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.Vistas.Estadisticas.resources
+C:\Users\Jairo Brenes\Desktop\Respaldo del Examen\PrimeraParteExamen\PrimeraParteExamen\bin\Debug\PrimeraParteExamen.exe.config
+C:\Users\Jairo Brenes\Desktop\Respaldo del Examen\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.exe
+C:\Users\Jairo Brenes\Desktop\Respaldo del Examen\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.pdb
+C:\Users\Jairo Brenes\Desktop\Respaldo del Examen\PrimeraParteExamen\PrimeraParteExamen\bin\Debug\PrimeraParteExamen.exe
+C:\Users\Jairo Brenes\Desktop\Respaldo del Examen\PrimeraParteExamen\PrimeraParteExamen\bin\Debug\PrimeraParteExamen.pdb
+C:\Users\Jairo Brenes\Desktop\Respaldo del Examen\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.csprojResolveAssemblyReference.cache
+C:\Users\Jairo Brenes\Desktop\Respaldo del Examen\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.Form1.resources
+C:\Users\Jairo Brenes\Desktop\Respaldo del Examen\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.Properties.Resources.resources
+C:\Users\Jairo Brenes\Desktop\Respaldo del Examen\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.Vistas.Estadisticas.resources
+C:\Users\Jairo Brenes\Desktop\Respaldo del Examen\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.Vistas.Estudiantes.resources
+C:\Users\Jairo Brenes\Desktop\Respaldo del Examen\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.Vistas.Materias.resources
+C:\Users\Jairo Brenes\Desktop\Respaldo del Examen\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.Vistas.Profesores.resources
+C:\Users\Jairo Brenes\Desktop\Respaldo del Examen\PrimeraParteExamen\PrimeraParteExamen\obj\Debug\PrimeraParteExamen.csproj.GenerateResource.Cache

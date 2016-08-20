@@ -1,0 +1,6 @@
+c:\users\jairo brenes\documents\visual studio 2015\Projects\SegundaParteExamen\SegundaParteExamen\bin\Debug\SegundaParteExamen.exe.config
+c:\users\jairo brenes\documents\visual studio 2015\Projects\SegundaParteExamen\SegundaParteExamen\bin\Debug\SegundaParteExamen.exe
+c:\users\jairo brenes\documents\visual studio 2015\Projects\SegundaParteExamen\SegundaParteExamen\bin\Debug\SegundaParteExamen.pdb
+c:\users\jairo brenes\documents\visual studio 2015\Projects\SegundaParteExamen\SegundaParteExamen\obj\Debug\SegundaParteExamen.csprojResolveAssemblyReference.cache
+c:\users\jairo brenes\documents\visual studio 2015\Projects\SegundaParteExamen\SegundaParteExamen\obj\Debug\SegundaParteExamen.exe
+c:\users\jairo brenes\documents\visual studio 2015\Projects\SegundaParteExamen\SegundaParteExamen\obj\Debug\SegundaParteExamen.pdb
